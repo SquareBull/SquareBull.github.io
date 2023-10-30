@@ -31,7 +31,7 @@
 }
 @font-face {
     font-family: "poppins";
-    src: url("/Static/fonts/Poppins-Black.ttf");
+    src: url("../Static/fonts/Poppins-Black.ttf");
   }
   @font-face {
     font-family: "tilitium";
