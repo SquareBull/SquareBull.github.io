@@ -22,26 +22,6 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
 }
-@font-face {
-    font-family: "cookie";
-    src: url("C../Static/fonts/Cookie-Regular.ttf");
-}
-@font-face {
-    font-family: "poppins";
-    src: url("/Static/fonts/Poppins-Black.ttf");
-  }
-  @font-face {
-    font-family: "tilitium";
-    src: url("../Static/fonts/TitilliumWeb-Black.ttf");
-  }
-  @font-face {
-    font-family: "opereum";
-    src: url("../Static/fonts/Demo_Fonts/Fontspring-DEMO-orpheuspro-regular.otf");
-  }
-  @font-face {
-    font-family: "Schweiz";
-    src: url("../Static/fonts");
-  }
 
 .navbar{
  display: flex;
