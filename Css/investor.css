@@ -5,10 +5,7 @@
     background-color: black;
 
 }
-@font-face {
-    font-family: "opereum";
-    src: url("../Static/fonts/Demo_Fonts/Fontspring-DEMO-orpheuspro-regular.otf");
-  }
+
 ::-webkit-scrollbar {
     width: 10px;
   }
@@ -585,7 +582,7 @@
       }
       .grid-child-posts{
         background-color: #1e1e1e ;
-          margin-top:1em;
+        margin-top:1em;
       }
       
       .grid-container {
