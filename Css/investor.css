@@ -481,6 +481,7 @@
         background-color:#1e1e1e ;
         margin-top: 15px;
         font-size: 1.5em;
+        text-align:center;
       }
       
       .card__image {
@@ -584,6 +585,7 @@
       }
       .grid-child-posts{
         background-color: #1e1e1e ;
+          margin-top:1em;
       }
       
       .grid-container {
@@ -618,14 +620,7 @@
     ::-webkit-scrollbar-thumb:hover {
       background: #555; 
     }
-    @font-face {
-        font-family: "opereum";
-        src: url("../Static/fonts/Demo_Fonts/Fontspring-DEMO-orpheuspro-regular.otf");
-      }
-      @font-face {
-          font-family: "poppins";
-          src: url("/Static/fonts/Poppins-Black.ttf");
-        }
+ 
         .navbar{
           display: flex;
           padding-left:7em ;
